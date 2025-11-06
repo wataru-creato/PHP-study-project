@@ -1,0 +1,7 @@
+tanaka:
+tanaka:hello world!!
+tanaka:これは見えますか？
+tanaka:できているやん
+tanaka:これできてね？
+admin:きましたね
+あらい:これでもできた
